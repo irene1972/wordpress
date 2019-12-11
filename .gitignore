@@ -1,0 +1,12 @@
+
+###> wordpress/ignore folders###
+/wp-admin/
+/wp-includes/
+###> wordpress/ignore folders###
+
+###> wordpress/ignore filess###
+.htaccess
+###> wordpress/ignore filess###
+
+### custom folders
+/a_documentacion/
